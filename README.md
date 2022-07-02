@@ -4,7 +4,7 @@ boilerplate로 써먹을 것 같아서 따로 뺌
 
 # 설계 UMLs
 
-[UMLs.md](app.quickdatabasediagrams.com/#/d/AjMt8U)
+[DB스키마](https://app.quickdatabasediagrams.com/#/d/AjMt8U)
 
 # gettings started
 
