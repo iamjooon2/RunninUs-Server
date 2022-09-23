@@ -32,8 +32,3 @@ npm run dev
   ┣ package.json
 
 ```
-
-# makefile
-``` 
-make generate-docs # 요거하면 코드 dependency graph가 바뀌어요
-```
